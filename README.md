@@ -13,8 +13,8 @@ A set of dynamic data structures for generic types which includes :
 - Binary Search Tree - One version on the BST implemented with a BinaryTree built with pointers to nodes
 - HashTable - Two versions of HT, one who resolves conflicts with Open Addressing and the otherone with Closed Addressing
 #
-The library has been developed using object oriented programming techniques and C++ as programming language. 
+The library has been developed using object oriented programming techniques and C++ as programming language in a linux envoironment. 
 Thanks to template offered by C++ the data structures are independent from the type of the object stored inside, 
 the user just have to specify it when instantiating. The library includes a simple user interface usefull for testing
-the code, thanks to a test battery given by Professor Fabio Mogavero. For compiling give execution privilge to build.sh with chmod u+x from terminal and run it. 
+the code, thanks to a test battery given by Professor Fabio Mogavero. For compiling give execution privilge to build.sh with chmod u+x from terminal and run it with ./main
 #
